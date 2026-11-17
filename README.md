@@ -1,7 +1,7 @@
 # Hi, I'm Nikhil 👋
 
 🎓 **B.Tech Computer Science Student**
-💻 **Java & Python Developer | Web Development | AI/ML & Data Analytics**
+💻 **Java Developer | Web Development**
 📱 **iOS Developer Intern at Infosys, Mysore**
 
 ## 👨‍💻 About Me
